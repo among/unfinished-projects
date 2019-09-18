@@ -37,3 +37,11 @@ This project will lead to a user-friendly piece of software that transforms a di
 We have a text file with on every line an entry, about 9000+ of them. Each entry is a short biography of someone in or connected to fifteenth century Cairo. We need to achieve two things:
 * Entries should be connected if they share information, such as same city, year, teacher, student, book title, legal affilitation. 
 * An interface should disclose the entries and their relations in a user-friendly manner, possibily with tools to manually add relationships.
+
+**3. Commentary tradition analyzer**
+A typical phenomenon of medieval intellectual history is a 'commentary tradition'. For example, someone writes a text in the 12th c. and people in the centuries afterwards are so enamored by it that they write a commentary on it: they copy the entire original text and intersperse it with writing (ideas, comments, criticism) of their own. So we end up with a base text and many commentaries all on the same text. If we have all of these texts in plain-text format, how can we analyze them to find out things such as: number of comments, placement of comments, length of comments, vocabulary of comments, etc. Besides this quantitive analysis, how can we create a GUI to disclose passages of many commentaries (on the same sentence of the base text) at the same time? 
+* Perhaps a stand-off annotation would work well for storage, in simple .txt files.
+* Webdev will suffice for a GUI
+* Natural language programming and statistics will be required for the analysis. Together with some visualization.
+
+**PLEASE CONTACT ME FOR MORE INFORMATION**
