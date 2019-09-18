@@ -1,5 +1,5 @@
 # Among Unfinished Projects
-There are many more projects and project ideas than there is manpower and know-how to finish them all. I am especially calling out to budding programmers, junior developers, who have a passion for computer vision or web development and seek reallife projects to learn and hone new skills: join us and make a contribution, small or great, to open source software projects that will be used for cutting edge research in the humanities.
+There are many more projects and project ideas than there is manpower and know-how to finish them all. I am especially calling out to budding programmers, junior developers, who have a passion for computer vision or web development and seek reallife projects to learn and hone new skills: join us and make a contribution, small or great, to open source software projects that will be used for cutting edge research in the humanities. If any of the below projects sounds fun to you, please [contact me](http://www.lwcvl.com/)!
 
 ## Who we are looking for
 We are looking for someone who is great at working out problems independently. You should be able to allocate time to finish a project once you start. Most importantly, you can prove or reasonably argue that you have been learning at least one of the following technologies for at least six months:
